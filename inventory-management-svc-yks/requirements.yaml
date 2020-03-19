@@ -1,0 +1,4 @@
+dependencies:
+- name: inventory-management-svc-yks
+  version: 0.0.2
+  repository: https://artifactory-tools.gsi-learning-ocp311-clu-7ec5d722a0ab3f463fdc90eeb94dbc70-0001.eu-gb.containers.appdomain.cloud/artifactory/generic-local/gsi-cloudnative-squad/

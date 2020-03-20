@@ -3,7 +3,7 @@ global:
   tlsSecretName: gsi-learning-ocp311-clu-7ec5d722a0ab3f463fdc90eeb94dbc70-0000
 
 inventory-management-svc-yks:
-  replicaCount: 4
+  replicaCount: 5
   
   ingress:
     enabled: true
